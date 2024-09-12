@@ -1,0 +1,20 @@
+backend:
+  name: github
+  repo: cannabiswire/nushinrashidian.com
+  branch: main
+  site_domain: https://nushinrashidian.com
+  base_url: https://nushinrashidian.com
+  auth_endpoint: /api/auth
+media_folder: images/uploads
+public_folder: /images
+collections:
+  - name: 'pages'
+    label: 'Pages'
+    folder: '_src/pages'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
