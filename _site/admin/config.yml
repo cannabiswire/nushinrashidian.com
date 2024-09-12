@@ -9,7 +9,7 @@ media_folder: images/uploads
 public_folder: /images
 collections:
   - name: 'pages'
-    label: 'Pages'
+    label: 'Page'
     folder: '_src/pages'
     create: true
     slug: '{{slug}}'
@@ -17,4 +17,13 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+    files:
+      - label: 'Homepage'
+        name: 'homepage'
+        file: '_src/pages/index.md'
+        fields:
+        - { label: 'Title', name: 'title', widget: 'string' }
+        - { label: 'Description', name: 'description', widget: 'text' }
+        - { label: 'Body', name: 'body', widget: 'markdown' }
