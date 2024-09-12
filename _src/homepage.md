@@ -3,8 +3,11 @@ layout: layout.html
 permalink: /
 title: Nushin Rashidian
 description: >
-  Co-founder of Cannabis Wire, co-author of 'A New Leaf: The End of Cannabis Prohibition', adjunct professor at the Columbia University Graduate School of Journalism.
+  Co-founder of Cannabis Wire, co-author of 'A New Leaf: The End of Cannabis
+  Prohibition', adjunct professor at the Columbia University Graduate School of
+  Journalism.
 ---
+## Testing!
 
 ## Bio
 
@@ -12,17 +15,17 @@ Co-founder of the news organization [Cannabis Wire](http://cannabiswire.com/), a
 
 Adjunct professor at the Columbia University Graduate School of Journalism.
 
----
+- - -
 
 ## Founder: Cannabis Wire
 
 [Cannabis Wire](http://cannabiswire.com/) is a news organization that covers cannabis business, policy, and research.
 
----
+- - -
 
 ## Author: *A New Leaf*
 
-[***A New Leaf: The End of Cannabis Prohibition*** **(The New Press, 2014\)**](https://thenewpress.com/books/new-leaf)
+[***A New Leaf: The End of Cannabis Prohibition*** **(The New Press, 2014)**](https://thenewpress.com/books/new-leaf)
 
 ### Select reviews:
 
@@ -46,7 +49,7 @@ Adjunct professor at the Columbia University Graduate School of Journalism.
 
 —
 
-"Carefully researched \[and\] accessible. . . . Changing marijuana laws doesn't seem as scary a proposition by the end."
+"Carefully researched \[and] accessible. . . . Changing marijuana laws doesn't seem as scary a proposition by the end."
 —[Publishers Weekly](https://www.publishersweekly.com/978-1-59558-920-0)
 
 —
@@ -63,7 +66,7 @@ Adjunct professor at the Columbia University Graduate School of Journalism.
 
 Also seen in: [Los Angeles Review of Books](http://lareviewofbooks.org/article/marijuana-gets-green-light/), [Boston Globe](http://www.bostonglobe.com/arts/2014/09/13/seven-books-marijuana/kc77BH4kOCvXcmyYlXumQK/story.html), National Post ([here](http://fullcomment.nationalpost.com/2014/04/02/martin-rashidian-another-prohibition-ends/), [here](http://fullcomment.nationalpost.com/2014/04/03/martin-rashidian-little-green-pill/), and [here](http://fullcomment.nationalpost.com/2014/04/04/martin-rashidian-the-drug-war-begins/)), [The National Memo's Weekend Reader](http://www.nationalmemo.com/weekend-reader-new-leaf-end-cannabis-prohibition/), [The Inlander,](http://www.inlander.com/spokane/for-your-consideration/Content?oid=2266194) [Pittsburgh Tribune-Review,](http://triblive.com/opinion/pagebooks/6146500-74/gold-history-money#axzz33gNqPlwC) [Boulder Weekly,](http://www.boulderweekly.com/features/weed-between-the-lines/a-new-leaf-chronicles-the-demise-of-prohibition/) [Playboy](http://playboysfw.kinja.com/what-rick-james-taught-me-about-drugs-1526122633), [The Albany Times Union.](http://www.timesunion.com/living/article/Witnesses-to-a-cannabis-shift-5193845.php)
 
----
+- - -
 
 ## Research Lead: Tow Center for Digital Journalism
 
@@ -71,24 +74,24 @@ Served as research lead on the [Platforms and Publishers](https://towcenter.org/
 
 Published research [here,](https://www.cjr.org/tow_center_reports/platforms-and-publishers-end-of-an-era.php) [here](https://www.cjr.org/tow_center_reports/the-platform-press-at-the-heart-of-journalism.php), and [here](https://www.cjr.org/author/nushin-rashidian).
 
----
+- - -
 
 ## Other Writing, TV, Radio, Etc.
 
 You can see some of my writing in [The New York Times](https://newoldage.blogs.nytimes.com/author/nushin-rashidian/), [The Nation,](https://www.thenation.com/authors/nushin-rashidian/) [Democracy Journal](http://democracyjournal.org/author/nushin-rashidian/), [The Guardian](https://www.theguardian.com/profile/nushin-rashidian), [Nieman Reports](http://niemanreports.org/authors/nushin-rashidian/), and [Nieman Lab.](http://www.niemanlab.org/author/nrashidian/)
 
-You can hear me on radio shows like [WNYC's Brian Lehrer Show](http://www.wnyc.org/story/road-legalized-marijuana/) and [This Is Hell\! with Chuck Mertz.](http://thisishell.net/shows/785/#MartinRashidian)
+You can hear me on radio shows like [WNYC's Brian Lehrer Show](http://www.wnyc.org/story/road-legalized-marijuana/) and [This Is Hell! with Chuck Mertz.](http://thisishell.net/shows/785/#MartinRashidian)
 
 And you can see me on screen, from the [History Channel's Hooked: Illegal Drugs: Marijuana](https://www.youtube.com/watch?v=rW0HQcbFvIE&feature=youtu.be) to [CBS News](https://www.cbsnews.com/video/justice-department-marijuana-policy-nushin-rashidian-cannabis-wire/) to [BRIC TV](https://www.youtube.com/watch?v=so6FkhwaJEE).
 
----
+- - -
 
 ## Grants and Fellowships
 
-- [Brown Institute for Media Innovation Magic Grant](http://brown.columbia.edu/) (Columbia Journalism School and the Stanford School of Engineering)
-- [Made in New York Media Center/Independent Filmmaker Project](http://nymediacenter.com/)
-- [City of New York Mayor's Office of Media and Entertainment](http://nymediacenter.com/2015/11/congratulations-to-the-made-in-ny-grantees-and-fellows/)
+* [Brown Institute for Media Innovation Magic Grant](http://brown.columbia.edu/) (Columbia Journalism School and the Stanford School of Engineering)
+* [Made in New York Media Center/Independent Filmmaker Project](http://nymediacenter.com/)
+* [City of New York Mayor's Office of Media and Entertainment](http://nymediacenter.com/2015/11/congratulations-to-the-made-in-ny-grantees-and-fellows/)
 
----
+- - -
 
 Find me on [Twitter](https://twitter.com/nushinrashidian) and [Linkedin](https://www.linkedin.com/in/nushinrashidian/) • © Nushin Rashidian
