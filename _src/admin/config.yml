@@ -13,6 +13,7 @@ collections:
     folder: '_src/pages'
     create: true
     slug: '{{slug}}'
+    preview_path: /{{slug}}
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Description', name: 'description', widget: 'text', required: false, hint: 'Optional. Only used for SEO.' }
