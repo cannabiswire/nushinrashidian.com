@@ -1,8 +1,8 @@
 const CleanCSS = require('clean-css');
 
 module.exports = function (eleventyConfig) {
-	eleventyConfig.addPassthroughCopy('_src/admin');
-	eleventyConfig.addPassthroughCopy('_src/assets');
+	eleventyConfig.addPassthroughCopy('admin');
+	eleventyConfig.addPassthroughCopy('assets');
 	eleventyConfig.addPassthroughCopy('uploads');
 
   // Add CSS minification and filter.
@@ -12,7 +12,7 @@ module.exports = function (eleventyConfig) {
 
   return {
     dir: {
-      input: '_src',
+      input: './',
       output: '_site',
     },
   };

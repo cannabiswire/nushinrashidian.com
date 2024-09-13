@@ -11,10 +11,10 @@ collections:
   - name: 'pages'
     label: 'Pages'
     label_singular: 'Page'
-    folder: '_src/pages'
+    folder: 'pages'
     create: true
     slug: '{{slug}}'
-    preview_path: /{{slug}}
+    preview_path: '/{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string', hint: 'For the homepage, do NOT change the ''Home'' title.' }
       - { label: 'Description', name: 'description', widget: 'text', required: false, hint: 'Optional. Only used for SEO.' }
