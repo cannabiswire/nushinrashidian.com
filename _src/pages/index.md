@@ -11,7 +11,7 @@ description: >
 
 Co-founder of the news organization [Cannabis Wire](http://cannabiswire.com/), and the co-author of the book [A New Leaf: The End of Cannabis Prohibition](https://cannabiswire.com/book-a-new-leaf) (The New Press, 2014).
 
-![](/images/uploads/__test-image.jpg)
+![](/uploads/__test-image-970x250.jpg)
 
 Adjunct professor at the Columbia University Graduate School of Journalism.
 
