@@ -15,6 +15,6 @@ collections:
     slug: '{{slug}}'
     preview_path: /{{slug}}
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string', hint: 'For the homepage, do NOT change the ''Home'' title.' }
       - { label: 'Description', name: 'description', widget: 'text', required: false, hint: 'Optional. Only used for SEO.' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
