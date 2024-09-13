@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-
     {% if title == 'Home' %}
       {% set title_tag = null  %}
     {% else %}
@@ -18,7 +17,6 @@
       {% include "_src/assets/style.css" %}
     {% endset %}
     <style>{{ css | cssmin | safe }}</style>
-
   </head>
   <body>
     <header>
@@ -29,7 +27,14 @@
           <ul>
             <li><a href="/">Home</a></li>
             {% for page in collections.pages %}
-              <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+              {% if page.data.title == title %}
+                {% set nav_item_class = 'current' %}
+              {% endif %}
+              <li class="{{ nav_item_class }}">
+                <a href="{{ page.url }}">
+                  {{ page.data.title }}
+                </a>
+              </li>
             {% endfor %}
           </ul>
         </nav>
