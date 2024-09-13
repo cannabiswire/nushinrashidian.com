@@ -9,7 +9,7 @@ description: >
 ---
 ## Bio
 
-Co-founder of the news organization [Cannabis Wire](http://cannabiswire.com/), and the co-author of the book [A New Leaf: The End of Cannabis Prohibition](https://cannabiswire.com/book-a-new-leaf) (The New Press, 2014).
+Co-founder of the news organization [Cannabis Wire](http://cannabiswire.com/), and the co-author of the book *[A New Leaf: The End of Cannabis Prohibition](https://cannabiswire.com/book-a-new-leaf)* (The New Press, 2014).
 
 Adjunct professor at the Columbia University Graduate School of Journalism.
 
@@ -27,18 +27,18 @@ Adjunct professor at the Columbia University Graduate School of Journalism.
 
 ### Select reviews:
 
-"A New Leaf is a detailed account of the history of the regulation of cannabis, presenting in a blow-by-blow manner the legal and political battles around its prohibition."\
+"*A New Leaf* is a detailed account of the history of the regulation of cannabis, presenting in a blow-by-blow manner the legal and political battles around its prohibition."\
 —**Jerome Groopman**, [The New York Review of Books](http://www.nybooks.com/articles/archives/2014/feb/20/marijuana-high-and-low/?insrc=hpss)
 
 —
 
-"With great clarity, A New Leaf offers a sweeping and important view of today's changing attitudes toward marijuana."\
-—**Amy Wilentz**, author of The Rainy Season and Farewell, Fred Voodoo, a National Book Critics Circle Award winner
+"With great clarity, *A New Leaf* offers a sweeping and important view of today's changing attitudes toward marijuana."\
+—**Amy Wilentz**, author of *The Rainy Season* and *Farewell, Fred Voodoo*, a National Book Critics Circle Award winner
 
 —
 
 "Just in time: Martin and Rashidian bring us the first account of the lively new green economy that is springing up in the wake of marijuana decriminalization and legalization. This is a meticulously reported book and a firm rebuke to the continuing federal prohibition."\
-—**Barbara Ehrenreich**, bestselling author of Nickel and Dimed
+—**Barbara Ehrenreich**, bestselling author of *Nickel and Dimed*
 
 —
 
@@ -58,7 +58,7 @@ Adjunct professor at the Columbia University Graduate School of Journalism.
 —
 
 "A comprehensive look at the political and social revolution taking place that is leading to the day when marijuana will inevitably be legal in all fifty states. The authors take us on a journey to meet the people on the front lines of this transformation."\
-—**Dale Maharidge**, co-author of the Pulitzer Prize-winning And Their Children After Them and author of Bringing Mulligan Home
+—**Dale Maharidge**, co-author of the Pulitzer Prize-winning *And Their Children After Them* and author of *Bringing Mulligan Home*
 
 —
 
