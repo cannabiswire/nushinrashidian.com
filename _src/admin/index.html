@@ -15,10 +15,12 @@
     var PostPreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        var image = entry.getIn(['data', 'image']);
-        var bg = this.props.getAsset(image);
+        var pageTitle = h('h2', {}, entry.getIn(['data', 'title']));
+        if (pageTitle === 'Home') {
+          pageTitle = h('h1', {}, 'Nushin Rashidian');
+        }
         return h('div', {"className": "content"},
-          h('h2', {}, entry.getIn(['data', 'title'])),
+          pageTitle,
           h('div', {}, this.props.widgetFor('body'))
         );
       }
