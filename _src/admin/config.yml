@@ -8,8 +8,9 @@ backend:
 media_folder: uploads
 public_folder: /uploads
 collections:
-  - label: 'Pages'
-    name: 'pages'
+  - name: 'pages'
+    label: 'Pages'
+    label_singular: 'Page'
     folder: '_src/pages'
     create: true
     slug: '{{slug}}'
