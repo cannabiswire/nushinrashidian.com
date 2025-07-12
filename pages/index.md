@@ -11,7 +11,7 @@ description: >
 
 Co-founder of the news organization [Cannabis Wire](http://cannabiswire.com/), and the co-author of the book *[A New Leaf: The End of Cannabis Prohibition](https://cannabiswire.com/book-a-new-leaf)* (The New Press, 2014).
 
-Adjunct professor at the Columbia University Graduate School of Journalism.
+Adjunct professor at the [Columbia University Graduate School of Journalism](https://journalism.columbia.edu/directory/nushin-rashidian).
 
 - - -
 
