@@ -92,4 +92,4 @@ And you can see me on screen, from the [History Channel's Hooked: Illegal Drugs:
 
 - - -
 
-Find me on [Twitter](https://twitter.com/nushinrashidian) and [Linkedin](https://www.linkedin.com/in/nushinrashidian/) • © Nushin Rashidian
+Find me on [Linkedin](https://www.linkedin.com/in/nushinrashidian/) • © Nushin Rashidian
