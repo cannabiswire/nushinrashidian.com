@@ -3,8 +3,8 @@ permalink: /
 eleventyExcludeFromCollections: true
 title: Home
 description: >
-  Co-founder of Cannabis Wire, co-author of ‘A New Leaf: The End of Cannabis
-  Prohibition,’ adjunct professor at the Columbia University Graduate School of
+  Co-founder of Cannabis Wire, co-author of 'A New Leaf: The End of Cannabis
+  Prohibition', adjunct professor at the Columbia University Graduate School of
   Journalism.
 ---
 ## Bio
