@@ -4,7 +4,6 @@ backend:
   branch: main
   site_domain: https://nushinrashidian.com
   base_url: https://nushinrashidian.com
-  auth_endpoint: /api/auth
 media_folder: uploads
 public_folder: /uploads
 collections:
