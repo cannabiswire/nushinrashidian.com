@@ -21,7 +21,7 @@ These courses include reporting, writing, ethics, and local news, and advising m
 
 For the 2025-26 academic year at Columbia, I served as managing editor of the school’s pop-up Substack publication [CollegeWatch](https://journalism.columbia.edu/news/collegewatch), which covered higher education under the Trump administration.
 
-Also at Columbia, I spent five years researching the implications of technology platforms for news publishers as a fellow at the Tow Center for Digital Journalism, and, until 2021, led its flagship project [Platforms and Publishers](https://towcenter.org/#/type/research/category/platforms-publishers). You can find my published research [here,](https://www.cjr.org/tow_center_reports/platforms-and-publishers-end-of-an-era.php) [here](https://www.cjr.org/tow_center_reports/the-platform-press-at-the-heart-of-journalism.php), and [here](https://www.cjr.org/author/nushin-rashidian). 
+Also at Columbia, I spent five years researching how technology platforms transformed news publishing as a fellow at the Tow Center for Digital Journalism, and, until 2021, led its flagship project [Platforms and Publishers](https://towcenter.org/#/type/research/category/platforms-publishers). You can find my published research [here,](https://www.cjr.org/tow_center_reports/platforms-and-publishers-end-of-an-era.php) [here](https://www.cjr.org/tow_center_reports/the-platform-press-at-the-heart-of-journalism.php), and [here](https://www.cjr.org/author/nushin-rashidian). 
 
 - - -
 
